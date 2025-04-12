@@ -790,3 +790,19 @@ responsive
   }
 }
 
+
+@media (max-width: 320px) {
+
+  .home .content .container {
+    margin-top: 60px;
+  }
+
+  .home .content .container p {
+    margin-bottom: 15px;
+  }
+
+  .dropdown_menu {
+    z-index: 2;
+  }
+
+}
